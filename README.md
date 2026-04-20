@@ -19,27 +19,6 @@
 
 ---
 
-## 📁 Struttura del progetto
-
-```
-src/
-│
-├── index.ts                # Entry point del bot
-├── config.ts               # Configurazioni principali
-│
-├── commands/               # Comandi del bot
-│   └── ping.ts
-│
-├── events/                 # Eventi Discord
-│   └── ready.ts
-│
-├── utils/
-│   └── storageuser.ts           # Gestione utenti (JSON DB)
-│
-└── db/
-    └── users.json         # Database utenti
-```
-
 ---
 
 ## 🚀 Avvio del progetto
